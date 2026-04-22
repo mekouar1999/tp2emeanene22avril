@@ -5,6 +5,7 @@ const navbar = document.getElementById('navbar');
 
 
 toggle.addEventListener('click', () => {
-    navbar.classList.toggle("othman")
+    btn.style.background="blue"
 })
 
+const btn = document.getElementById('btn1');
